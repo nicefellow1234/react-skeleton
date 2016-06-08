@@ -1,0 +1,24 @@
+{
+  "name": "react-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicefellow1234/react-skeleton.git"
+  },
+  "author": "Umair Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicefellow1234/react-skeleton/issues"
+  },
+  "homepage": "https://github.com/nicefellow1234/react-skeleton#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.0.0",
+    "gulp-open": "^2.0.0"
+  }
+}
