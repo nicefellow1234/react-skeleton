@@ -10,7 +10,7 @@ var concat = require('gulp-concat'); // Concatenates files
 var lint = require('gulp-eslint'); // Lint JS files, including JSX
 
 var config = {
-	port: 80,
+	port: 9005,
 	devBaseUrl: 'http://react-skeleton.herokuapp.com/',
 	paths: {
 		html: './src/*.html',
